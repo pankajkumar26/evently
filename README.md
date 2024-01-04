@@ -34,3 +34,20 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+## Steps:
+### Setup
+1) Created Next App
+2) Configured globals.css and tailwind.config.ts files
+3) install shadcn and @uploadthing/react
+4) create (root) folder to store main files such as page.tsx
+5) create (auth) folder to store all the routes of signup and signin routes
+6) Update the layout.tsx files for the icons, metadata, etc.
+7) Created Header and Footer components under shared folder so that they can be used in multiple pages.
+8) Setup Authentication using Clerk
+9) Created different pages for sign-in and sign-out
+
+### Navigation Bar
+1) 
